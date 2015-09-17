@@ -9,10 +9,13 @@
 1. For Scratch
   - Animation
   - Interactive Backgrounds
-  - 
+  - Looping
+  - Math Functions
   
 2. For Alice
 
+3. For CodeCraft?
+  -do we need a license for this?
 
 **Introduce Cool Tech**
   - 3-D printer
