@@ -1,16 +1,20 @@
 *Post your ideas for our curriculum!*
 
 
-**Specific classes**
+**Warm ups?**
+  - logic problems (both work together as a class and independantly)
 
-  - Warm ups?
+**Specific classes**
 
 1. For Scratch
   - Animation
   - Interactive Backgrounds
+  - 
+  
+2. For Alice
 
 
-2. Introduce Cool Tech
+**Introduce Cool Tech**
   - 3-D printer
 
 
@@ -20,4 +24,4 @@
 
 
 **Overall curriculum**
-  - Program a game or other app in Scratch
+  - Program a game or other app in Scratch or other Language (preferably in multiple languages)
