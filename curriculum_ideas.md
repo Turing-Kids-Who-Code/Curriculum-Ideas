@@ -19,6 +19,8 @@
 
 **Introduce Cool Tech**
   - 3-D printer
+  - Occulus Rift
+  - Jewel Box (not out yet)
 
 
 **Program Goals**
