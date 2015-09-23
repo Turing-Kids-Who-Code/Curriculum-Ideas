@@ -17,6 +17,9 @@
 3. For CodeCraft?
   -do we need a license for this?
 
+4. For Ruby/Other typed out lang.
+  - cloud9.io (online droplet that allows you to build apps on its ubuntu platform)
+
 **Introduce Cool Tech**
   - 3-D printer
   - Occulus Rift
